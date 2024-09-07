@@ -1,0 +1,18 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Maven
+target/
+.mvn/
+
+# Logi
+*.log
+
+# IDE
+.classpath
+.project
+
+# Systemy operacyjne
+.DS_Store
+Thumbs.db
