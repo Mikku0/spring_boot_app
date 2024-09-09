@@ -16,3 +16,5 @@ target/
 # Systemy operacyjne
 .DS_Store
 Thumbs.db
+
+application.properties
